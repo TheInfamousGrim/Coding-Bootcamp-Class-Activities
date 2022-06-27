@@ -1,0 +1,30 @@
+# Setting up your tools
+
+```
+*  Install slack
+*  Check if have a github account
+*  Get git bash for windows machine
+*  Get Visual studio code
+*  Setup gitlab, ssh and pull the code
+*  Setup github and push the code
+*  Add plugins/extensions of Vs code
+```
+
+# Plugins and extensions for VS code
+
+```
+
+* Prettier
+* color hightlighter
+* Live Server
+* Code Spell Checker
+* Markdown Preview GitHub Styling
+* vscode-icons
+
+File -> Preferences -> Settings
+* auto save -> onFocusChange
+* default formatter -> select prettier
+* compact folder -> uncheck
+* format on save -> check
+* Ctrl+ Shift + P  - Open command palette and search for Select default profile select bash or zsh
+```
