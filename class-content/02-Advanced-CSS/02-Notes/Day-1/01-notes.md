@@ -6,6 +6,7 @@
 ## Learning Objectives
 
 - Go through last week activities
+- demonstrate how to deploy application on github. (kebab case)
 - Media queries (demonstrate syntax and bootstrap media queries)
 - Flex container and item (by default display flex row - justify-content(along axis) and align items(along cross axis))
 - demonstrate flex wrap
