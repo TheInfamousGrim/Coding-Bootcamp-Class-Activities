@@ -4,6 +4,8 @@
 
 A series of videos demonstrating how to solve the classroom activities for each week. Please use these resources after attempting the activities by yourself. The solution code can be found [here](./activity-solutions/).
 
+- [Week 01 - HTML-Git-CSS](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
+
 ## Workshop Recordings 🎥
 
 A list of all workshop zoom recordings.
