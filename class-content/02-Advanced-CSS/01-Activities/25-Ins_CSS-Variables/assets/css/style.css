@@ -31,8 +31,8 @@ h2 {
   font-size: 250%;
 }
 
-a[href*=".css"]::after {
-  content: "📝";
+a[href*='.css']::after {
+  content: '📝';
   display: inline-block;
   margin-left: 3px;
 }
