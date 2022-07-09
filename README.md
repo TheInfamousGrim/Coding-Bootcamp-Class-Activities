@@ -4,8 +4,12 @@
 
 A series of videos demonstrating how to solve the classroom activities for each week. Please use these resources after attempting the activities by yourself. The solution code can be found [here](./activity-solutions/).
 
-- [Week 01 - HTML-Git-CSS](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
-- [Week 02 - Advanced-CSS](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
+- [Week 01](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
+- [Week 02](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
+
+## Homework Review Session Recordings 🎥
+
+- [Week 02](https://zoom.us/rec/share/U4f-TRw_Ucw_ES6aST3jOJ2pGXzDN11YUaMLenjikq3HN3ueUIBM0oIwCzf4mexq.v7C0mUmRx3h9Uk92?startTime=1657383029000)
 
 ## Workshop Recordings 🎥
 
