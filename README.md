@@ -15,6 +15,14 @@ A series of videos demonstrating how to solve the classroom activities for each 
 
 A list of all workshop zoom recordings.
 
+- [Codeflix workshop](https://zoom.us/rec/play/_er2XkVA2Vu4hHtSjhkt3exINutfOj8K1uk5CyfGoDaDfyLFZ0LNTKvEqgHVbmcIFRDW5GOtieC0l7MA.ydsARTqonah-WZjJ?startTime=1649698282000)
+
+## Workshop Github repositories
+
+A list of all workshop github repositories.
+
+- [Codeflix workshop](https://github.com/surajverma2587/codeflix-2022)
+
 ## Classroom Recordings 🎥
 
 A list of all classroom zoom recordings.
