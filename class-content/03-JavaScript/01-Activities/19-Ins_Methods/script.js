@@ -1,18 +1,11 @@
-var comparisonOperators = [
-  "Equal",
-  "Not Equal",
-  "Strict Equal",
-  "Strict Not Equal",
-  "Greater Than",
-  "Less Than",
-];
+var comparisonOperators = ["Equal", "Not Equal", "Strict Equal", "Strict Not Equal", "Greater Than", "Less Than"];
 var arithmaticOperators = ["+", "-", "%"];
 var logicalOperators = ["and", "or", "not"];
 var myString = "Hello String";
 
 //Array Methods
 // Sorts comparisonOperators array and returns the sorted array
-comparisonOperators.sort();
+comparisonOperators.sort(); 
 
 //Logs sorted array
 console.log(comparisonOperators);
@@ -24,7 +17,7 @@ arithmaticOperators.push("%");
 console.log(arithmaticOperators);
 
 //Returns selected elements as a new array.
-var logicalOperatorsSliced = logicalOperators.slice(0, 2);
+var logicalOperatorsSliced = logicalOperators.slice(0,2);
 
 //Logs new array
 console.log(logicalOperatorsSliced);
