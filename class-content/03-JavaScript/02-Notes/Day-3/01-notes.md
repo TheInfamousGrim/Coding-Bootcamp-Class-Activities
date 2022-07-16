@@ -17,4 +17,3 @@ doubleNumber([5,4,2,3])
 
 - revision of arrays, iterations, functions, methods
 - explain declaring an object, calling it using unique identifier
--
