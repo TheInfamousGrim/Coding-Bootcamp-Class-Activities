@@ -44,11 +44,17 @@ _Resources_
 #### Week 2 - Advanced CSS
 
 - [Day 1](https://zoom.us/rec/play/cD02t7jstEfTpKoMcwyqKESt0lY1gi-5cwQj905wpsXfUT8FKzOrTys207Auj3pt5UnR6cb9b90PaE2C.gyl-X4Ecgm3XIL22)
-- [Day 2]()
-- [Day 3]()
+- [Day 2](https://zoom.us/rec/play/OwmiBOFHTHiQ6ZgjnTUwY2OKaLMoNByDIQ1wmyMZgAIzQqMjnso0hyUdwmwNfaBffE9VtlnMk8u9baYI.0KxNa_IIzm7kKSPJ)
+- [Day 3](https://zoom.us/rec/play/jAnab51pCsn-tyFXJPIxEevF1Zs-Qavg6p1P9kDso-efKJYkT5M-dTy0H_6jJOnbb8cIRNIibV67lOEt.KXMFAkcP7F6oAOML)
 
 _Resources_
 
 - [CSS MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Breakpoints for media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
+
+#### Week 3 - Javsscript
+
+- [Day 1](https://zoom.us/rec/play/HvQJw1yAxRKIAPXaoSwitUk2QoI1kLtxm1di8RfWaHnOzRSCXsHnlw61UIo971kf1EUuSspAR61RmFvF.dokvHMPi-augk96w)
+- [Day 2](https://zoom.us/rec/play/IDwPxYnbB7uFKguVWaXwM_CM-epu7AfqTDdPKHQWFRhDbE2U0DYIn3ch6Z_6rluU8sfpZBytxSn9pYw6.-4S3MWdP2jYeIDJg)
+- [Day 3](https://zoom.us/rec/play/j6Ju1Dp5TM-pT2tF257vfBi_VA9wt3VEgWPK7QOfGPSu2JHVL9wLYbk8jNGmeWdkm3F2tauLsrU_mWKw.pT1VXbIiYe7yOqpr)
