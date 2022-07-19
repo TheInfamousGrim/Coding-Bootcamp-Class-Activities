@@ -4,12 +4,15 @@
 
 A series of videos demonstrating how to solve the classroom activities for each week. Please use these resources after attempting the activities by yourself. The solution code can be found [here](./activity-solutions/).
 
-- [Week 01](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
-- [Week 02](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
+- [Week 01 - HTML-Git-CSS](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
+- [Week 02 - Advanced-CSS](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
+- [Week 03 - Javascript](https://drive.google.com/drive/folders/1gP4TS-0LyB9-MkrL7dib9ZAW5x6LyI9t?usp=sharing)
 
 ## Homework Review Session Recordings 🎥
 
-- [Week 02](https://zoom.us/rec/share/U4f-TRw_Ucw_ES6aST3jOJ2pGXzDN11YUaMLenjikq3HN3ueUIBM0oIwCzf4mexq.v7C0mUmRx3h9Uk92?startTime=1657383029000)
+- [Week 01 homework](https://zoom.us/rec/share/YsRnlh9yADHgjHmdHy5_ibs3jOURM09Krm8XnfprwB5ZnQ6w1N0vZW9Bt_WOK3Z1.PRyZ8otnZb9mj1Sm?startTime=1648832726000)
+- [Week 02 homework](https://zoom.us/rec/share/LIPT9EdN4hPCt0R6q33QTrHq9EeokULfTFeZON3FQtYTp30xW_waFSax0U2vhxBE._NWlEGOVd72U7tFf?startTime=1649439075000)
+- [Week 03 homework](https://zoom.us/rec/share/1XZEs_dgQkDWFoiT0bOe3G9nTyiFWTXfKsIQRsgjtDB4HF9HA_Ab1WnJ_aq6EFFu.NefsBfhFlLCDPJq2?startTime=1650043883000)
 
 ## Workshop Recordings 🎥
 
