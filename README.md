@@ -53,8 +53,14 @@ _Resources_
 - [CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Breakpoints for media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
 
-#### Week 3 - Javsscript
+#### Week 3 - Javascript
 
 - [Day 1](https://zoom.us/rec/play/HvQJw1yAxRKIAPXaoSwitUk2QoI1kLtxm1di8RfWaHnOzRSCXsHnlw61UIo971kf1EUuSspAR61RmFvF.dokvHMPi-augk96w)
 - [Day 2](https://zoom.us/rec/play/IDwPxYnbB7uFKguVWaXwM_CM-epu7AfqTDdPKHQWFRhDbE2U0DYIn3ch6Z_6rluU8sfpZBytxSn9pYw6.-4S3MWdP2jYeIDJg)
 - [Day 3](https://zoom.us/rec/play/j6Ju1Dp5TM-pT2tF257vfBi_VA9wt3VEgWPK7QOfGPSu2JHVL9wLYbk8jNGmeWdkm3F2tauLsrU_mWKw.pT1VXbIiYe7yOqpr)
+
+#### Week 4 - Web API's
+
+- [Day 1](https://zoom.us/rec/play/aQr3YXBthYUIUKhl11oOCqrwfS3701Wd4ZVg0TzW56-nZhTa-6QQ_GyQFvJvGs7XNDDQ8Tvcx1pMFeat.KVWC8BapEAuVLV6-)
+- [Day 2]()
+- [Day 3]()
