@@ -6,13 +6,13 @@ var container = document.querySelector(".container");
 var mode = "dark";
 
 // Listen for a click event on toggle switch
-themeSwitcher.addEventListener("click", function () {
+themeSwitcher.addEventListener("click", function() {
   // If mode is dark, apply light background
   if (mode === "dark") {
     mode = "light";
     container.setAttribute("class", "light");
   }
-  // If mode is light, apply dark background
+  // If mode is light, apply dark background 
   else {
     mode = "dark";
     container.setAttribute("class", "dark");

@@ -8,14 +8,9 @@ function showResponse(event) {
   // Prevent default action
   event.preventDefault();
   console.log(event);
-  var response =
-    "Thank you for your submission " +
-    nameInput.value +
-    "! We will reach out to you at " +
-    emailInput.value +
-    ".";
+  var response = "Thank you for your submission " + nameInput.value + "! We will reach out to you at " + emailInput.value + ".";
   submissionResponseEl.textContent = response;
 }
-
+  
 // Add listener to submit element
 submitEl.addEventListener("click", showResponse);
