@@ -7,12 +7,14 @@ A series of videos demonstrating how to solve the classroom activities for each 
 - [Week 01 - HTML-Git-CSS](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
 - [Week 02 - Advanced-CSS](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
 - [Week 03 - Javascript](https://drive.google.com/drive/folders/1gP4TS-0LyB9-MkrL7dib9ZAW5x6LyI9t?usp=sharing)
+- [Week 04 - Web Api's](https://drive.google.com/drive/folders/1E8El5rcsHeAk2KJmk6opCeU4EqvQckz8?usp=sharing)
 
 ## Homework Review Session Recordings 🎥
 
 - [Week 01 homework](https://zoom.us/rec/share/YsRnlh9yADHgjHmdHy5_ibs3jOURM09Krm8XnfprwB5ZnQ6w1N0vZW9Bt_WOK3Z1.PRyZ8otnZb9mj1Sm?startTime=1648832726000)
 - [Week 02 homework](https://zoom.us/rec/share/LIPT9EdN4hPCt0R6q33QTrHq9EeokULfTFeZON3FQtYTp30xW_waFSax0U2vhxBE._NWlEGOVd72U7tFf?startTime=1649439075000)
 - [Week 03 homework](https://zoom.us/rec/share/1XZEs_dgQkDWFoiT0bOe3G9nTyiFWTXfKsIQRsgjtDB4HF9HA_Ab1WnJ_aq6EFFu.NefsBfhFlLCDPJq2?startTime=1650043883000)
+- [Week 04 homework](https://zoom.us/rec/play/D1NQxuVYFVGViiM_1OJx95TN1ALgXAkh52BqDSDue_qbGjQNgLTsUHAKHh7lTDZUyqiD1hEmaTE8tQbi.1mrOe5lNofl0mN4j?startTime=1650648857000)
 
 ## Workshop Recordings 🎥
 
@@ -66,4 +68,4 @@ _Resources_
 
 - [Day 1](https://zoom.us/rec/play/aQr3YXBthYUIUKhl11oOCqrwfS3701Wd4ZVg0TzW56-nZhTa-6QQ_GyQFvJvGs7XNDDQ8Tvcx1pMFeat.KVWC8BapEAuVLV6-)
 - [Day 2](https://zoom.us/rec/play/rg_VOXgWo0ZVMZikFdBLWq_Dudm3tq0ovcfWMNJORcfF_a2KHMfj8U_m8musGDh5j7aOZCO2M8eJ8GY.jZzg389DLfL6EGZ5)
-- [Day 3]()
+- [Day 3](https://zoom.us/rec/play/J50nKcwA0x-BqtQ1BVjnpzq6AFkwjQhyhmRcnoih8VWKqGD4_7_8C2U3PsrO-IRJlIZe-qhr2HGdSII.t6TbuCOCGh6ixxEx)
