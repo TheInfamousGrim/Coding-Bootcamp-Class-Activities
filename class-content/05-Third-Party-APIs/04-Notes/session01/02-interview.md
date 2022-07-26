@@ -35,5 +35,12 @@ document.remove();
 document.removeChild();
 parentElement.appendChild();
 
+localStorage.setItem("key","value");
+localStorage.getItem("key");
+localStorage.removeItem("key");
+
+setInterval(function, delay) //
+clearInterval();
+
 
 ```
