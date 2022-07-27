@@ -72,6 +72,6 @@ _Resources_
 
 #### Week 5 - Third Party API's
 
-- [Day 1]()
+- [Day 1](https://zoom.us/rec/play/vwjLWz-YRb00h9JP-WZhfIwdaSuy3kUX6YPPHw17Stu2BGbREsc1Pb2k3eHRI2_Yl2hzlCr4Gjy1B2Nc.23ea4At9zPW8nXTz)
 - [Day 2]()
 - [Day 3]()
