@@ -7,7 +7,8 @@ A series of videos demonstrating how to solve the classroom activities for each 
 - [Week 01 - HTML-Git-CSS](https://drive.google.com/drive/folders/10F3cj2sPDgIlFnVRxQekSWIVD0LE6zfQ?usp=sharing)
 - [Week 02 - Advanced-CSS](https://drive.google.com/drive/folders/1FXquhcR2p39H-GbT6o4-ZL3IutJyPXz6?usp=sharing)
 - [Week 03 - Javascript](https://drive.google.com/drive/folders/1gP4TS-0LyB9-MkrL7dib9ZAW5x6LyI9t?usp=sharing)
-- [Week 04 - Web Api's](https://drive.google.com/drive/folders/1E8El5rcsHeAk2KJmk6opCeU4EqvQckz8?usp=sharing)
+- [Week 04 - Web Api's](https://drive.google.com/drive/folders/1E8El5rcsHeAk2KJmk6opCeU4EqvQc0kz8?usp=sharing)
+- [Week 05 - Third Party Api's](https://drive.google.com/drive/folders/1n8kwRVd7exsOLdYP7HiLh09QXhMvcfkO?usp=sharing)
 
 ## Homework Review Session Recordings 🎥
 
@@ -15,6 +16,7 @@ A series of videos demonstrating how to solve the classroom activities for each 
 - [Week 02 homework](https://zoom.us/rec/share/LIPT9EdN4hPCt0R6q33QTrHq9EeokULfTFeZON3FQtYTp30xW_waFSax0U2vhxBE._NWlEGOVd72U7tFf?startTime=1649439075000)
 - [Week 03 homework](https://zoom.us/rec/share/1XZEs_dgQkDWFoiT0bOe3G9nTyiFWTXfKsIQRsgjtDB4HF9HA_Ab1WnJ_aq6EFFu.NefsBfhFlLCDPJq2?startTime=1650043883000)
 - [Week 04 homework](https://zoom.us/rec/play/D1NQxuVYFVGViiM_1OJx95TN1ALgXAkh52BqDSDue_qbGjQNgLTsUHAKHh7lTDZUyqiD1hEmaTE8tQbi.1mrOe5lNofl0mN4j?startTime=1650648857000)
+- [Week 05 homework](https://zoom.us/rec/play/athE9ep4DSxnvb1uw_q2ymBEFIoW2G1JBIJimd2o5xQCVW6lbmKAy61joq5QTOkEax3_qEGX22OFHmio.cyNAg7JsLtrgMbUI?startTime=1651253469000)
 
 ## Workshop Recordings 🎥
 
@@ -73,5 +75,5 @@ _Resources_
 #### Week 5 - Third Party API's
 
 - [Day 1](https://zoom.us/rec/play/vwjLWz-YRb00h9JP-WZhfIwdaSuy3kUX6YPPHw17Stu2BGbREsc1Pb2k3eHRI2_Yl2hzlCr4Gjy1B2Nc.23ea4At9zPW8nXTz)
-- [Day 2]()
-- [Day 3]()
+- [Day 2](https://zoom.us/rec/play/vc3lo0wXJoRkkJX9bDHhoS2rHw6K5HJFVDvvW7brQrTM_Ka6l6ov36PU_HMWM-BLYhw48U5rE4d9tEny.nwZHWS8y-mA_XreC)
+- [Day 3](https://zoom.us/rec/play/5sDO_mhdt02MLDEE3yMmNH4TwTAc5KajazTF9Bo-kpAn7DvSKkiOIz4_Gwki2nOSIHz2bEAOCBHBsAJo.xfpwX1rjXR-8bAEF)
