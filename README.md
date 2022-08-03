@@ -77,3 +77,9 @@ _Resources_
 - [Day 1](https://zoom.us/rec/play/vwjLWz-YRb00h9JP-WZhfIwdaSuy3kUX6YPPHw17Stu2BGbREsc1Pb2k3eHRI2_Yl2hzlCr4Gjy1B2Nc.23ea4At9zPW8nXTz)
 - [Day 2](https://zoom.us/rec/play/vc3lo0wXJoRkkJX9bDHhoS2rHw6K5HJFVDvvW7brQrTM_Ka6l6ov36PU_HMWM-BLYhw48U5rE4d9tEny.nwZHWS8y-mA_XreC)
 - [Day 3](https://zoom.us/rec/play/5sDO_mhdt02MLDEE3yMmNH4TwTAc5KajazTF9Bo-kpAn7DvSKkiOIz4_Gwki2nOSIHz2bEAOCBHBsAJo.xfpwX1rjXR-8bAEF)
+
+#### Week 5 - Third Party API's
+
+- [Day 1](https://zoom.us/rec/share/MDTvKqY1u8rBq5CZDrBG706qrakw35RfeBr1YzvUKNCM6_RbB9BpSvlXOcsOiqEQ.aAxUPFo2pTK4mNyY)
+- [Day 2](https://zoom.us/rec/share/85mthrGhIDtYJ6F6aoGUlwJrZNkt0aB9GP7zotPyQiINMABk6rNgtQIMGW7t96bi.NgC7wHjSt-mNC-io)
+- [Day 3]()
