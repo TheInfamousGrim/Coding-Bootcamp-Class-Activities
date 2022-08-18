@@ -17,6 +17,7 @@ A series of videos demonstrating how to solve the classroom activities for each 
 - [Week 03 homework](https://zoom.us/rec/share/1XZEs_dgQkDWFoiT0bOe3G9nTyiFWTXfKsIQRsgjtDB4HF9HA_Ab1WnJ_aq6EFFu.NefsBfhFlLCDPJq2?startTime=1650043883000)
 - [Week 04 homework](https://zoom.us/rec/play/D1NQxuVYFVGViiM_1OJx95TN1ALgXAkh52BqDSDue_qbGjQNgLTsUHAKHh7lTDZUyqiD1hEmaTE8tQbi.1mrOe5lNofl0mN4j?startTime=1650648857000)
 - [Week 05 homework](https://zoom.us/rec/play/athE9ep4DSxnvb1uw_q2ymBEFIoW2G1JBIJimd2o5xQCVW6lbmKAy61joq5QTOkEax3_qEGX22OFHmio.cyNAg7JsLtrgMbUI?startTime=1651253469000)
+- [Week 06 homework](https://zoom.us/rec/play/G-EGJM_QmdjZ2yp6hLDXlH9Z_uiHuUpEW4x6f_ZDIzQbgFgUjQTI1uNSqr62A7MiTBCst3BTmTo--uYa.AcHa_fUmyXzxtL1d?startTime=1651858918000)
 
 ## Workshop Recordings 🎥
 
@@ -82,4 +83,7 @@ _Resources_
 
 - [Day 1](https://zoom.us/rec/share/MDTvKqY1u8rBq5CZDrBG706qrakw35RfeBr1YzvUKNCM6_RbB9BpSvlXOcsOiqEQ.aAxUPFo2pTK4mNyY)
 - [Day 2](https://zoom.us/rec/share/85mthrGhIDtYJ6F6aoGUlwJrZNkt0aB9GP7zotPyQiINMABk6rNgtQIMGW7t96bi.NgC7wHjSt-mNC-io)
-- [Day 3]()
+
+### Project Presentations
+
+- [Project Presentation](https://zoom.us/rec/share/zAHxlnJqlrbuwH_nEzk8Ap-wnX8h8jfid3TVTwjsqW5IhkAC-yfv9red5dVi1WWE.P8INpVNrEVEahGWG)
