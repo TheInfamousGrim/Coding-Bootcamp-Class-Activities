@@ -2,7 +2,7 @@
 
 ## Demo
 
-* Open [19-Ins_Inquirer-Demo/index.js](../activities/19-Ins_Inquirer-Demo/index.js)
+- Open [19-Ins_Inquirer-Demo/index.js](../activities/19-Ins_Inquirer-Demo/index.js)
 
 ## Try
 

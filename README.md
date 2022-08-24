@@ -79,7 +79,7 @@ _Resources_
 - [Day 2](https://zoom.us/rec/play/vc3lo0wXJoRkkJX9bDHhoS2rHw6K5HJFVDvvW7brQrTM_Ka6l6ov36PU_HMWM-BLYhw48U5rE4d9tEny.nwZHWS8y-mA_XreC)
 - [Day 3](https://zoom.us/rec/play/5sDO_mhdt02MLDEE3yMmNH4TwTAc5KajazTF9Bo-kpAn7DvSKkiOIz4_Gwki2nOSIHz2bEAOCBHBsAJo.xfpwX1rjXR-8bAEF)
 
-#### Week 5 - Third Party API's
+#### Week 5 - Server Side API's
 
 - [Day 1](https://zoom.us/rec/share/MDTvKqY1u8rBq5CZDrBG706qrakw35RfeBr1YzvUKNCM6_RbB9BpSvlXOcsOiqEQ.aAxUPFo2pTK4mNyY)
 - [Day 2](https://zoom.us/rec/share/85mthrGhIDtYJ6F6aoGUlwJrZNkt0aB9GP7zotPyQiINMABk6rNgtQIMGW7t96bi.NgC7wHjSt-mNC-io)
@@ -87,3 +87,17 @@ _Resources_
 ### Project Presentations
 
 - [Project Presentation](https://zoom.us/rec/share/zAHxlnJqlrbuwH_nEzk8Ap-wnX8h8jfid3TVTwjsqW5IhkAC-yfv9red5dVi1WWE.P8INpVNrEVEahGWG)
+
+#### Week 9 - Node JS
+
+- First create a repo with git ignore node (this will ignore the /node_modules folder)
+- clone your repo
+- npm init (creates a package.json)
+- npm install [package-name]@[version-number](npm install inquirer@8.2.4)
+- commit the file
+
+* [Day 1](https://zoom.us/rec/play/a6i2aZb-nACNSq66sxYnBb8QHpeePrmPQ5Ky3_dABuv1T3AcsTglFDrbPo22APXqNPjnj1ANaF9hoqXo.DZO0_dLzPPqEMAXV)
+* [Day 2](https://zoom.us/rec/play/GBxg4Nlilh8IiaVIbEvA7135nUbgZKQY6TeclLWKhHKs7FoFeKTuDS17zuNsA7P2uimiPXLN3JagM4T-.zT3ny3GHl060BJmi)
+
+_Resources_
+[FileSystem](https://nodejs.dev/en/learn/reading-files-with-nodejs , https://nodejs.dev/en/learn/writing-files-with-nodejs)
