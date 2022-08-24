@@ -101,3 +101,5 @@ _Resources_
 
 _Resources_
 [FileSystem](https://nodejs.dev/en/learn/reading-files-with-nodejs , https://nodejs.dev/en/learn/writing-files-with-nodejs)
+[Filter,Map,Reduce](https://levelup.gitconnected.com/sneak-peak-of-map-filter-and-reduce-in-javascript-79d38181a48)
+[PassByValueOrReference](https://blog.penjee.com/passing-by-value-vs-by-reference-java-graphical/)
